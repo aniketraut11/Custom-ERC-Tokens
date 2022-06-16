@@ -1,4 +1,4 @@
-Custom ERC20 and ERC721 Tokens using openzeppelin and Deployed to rinkeby testnet. 
+Custom ERC20 and ERC721 Tokens using openzeppelin and Deployed to Ethereum(rinkeby testnet). 
 Verified contracts on etherscan.
 
 Github: https://github.com/aniketraut11/Custom-ERC-Tokens
